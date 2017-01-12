@@ -1,0 +1,1 @@
+This will eventually be a modified and packaged version of ehrenbrav's [FCEUX Learning Environment](https://github.com/ehrenbrav/FCEUX_Learning_Environment).
