@@ -1,10 +1,11 @@
 *.sublime-project
 *.sublime-workspace
-roms/*
-!roms/README.md
+nes_py/roms/*
+!nes_py/roms/README.md
 fceux/src/*.o
 fceux/src/**/*.o
 fceux/src/fceux
 fceux/.scon*
 fceux/lib
 fceux/config.log
+nes_py/libfceux.so
